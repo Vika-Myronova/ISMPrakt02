@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearExpressions", "LinearExpressions\LinearExpressions.csproj", "{0577D5EC-0FDF-4455-BE3D-7AB3F4C8E4F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{24D47306-0330-4EBA-A4AA-796DC4B4C231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0577D5EC-0FDF-4455-BE3D-7AB3F4C8E4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0577D5EC-0FDF-4455-BE3D-7AB3F4C8E4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0577D5EC-0FDF-4455-BE3D-7AB3F4C8E4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0577D5EC-0FDF-4455-BE3D-7AB3F4C8E4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D47306-0330-4EBA-A4AA-796DC4B4C231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D47306-0330-4EBA-A4AA-796DC4B4C231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D47306-0330-4EBA-A4AA-796DC4B4C231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D47306-0330-4EBA-A4AA-796DC4B4C231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {305D3291-DD4F-4039-A45C-0991A2CDC692}
+	EndGlobalSection
+EndGlobal
